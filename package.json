@@ -1,0 +1,20 @@
+{
+  "name": "project-name",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "auto-reload-brunch": "^1.8.0",
+    "bower": "^1.5.3",
+    "brunch": "^1.8.5",
+    "coffee-script-brunch": "~1.8.0",
+    "jade-brunch": "^1.8.1",
+    "javascript-brunch": "^1.7.1",
+    "sass-brunch": "^1.9.1"
+  }
+}
